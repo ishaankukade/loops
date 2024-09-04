@@ -1,4 +1,4 @@
-# loops_2
+# loops
 Aim: To study and implement C++ decision making statements or loops.
 
 
